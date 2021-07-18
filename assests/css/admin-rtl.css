@@ -1,0 +1,34 @@
+body {
+	direction: rtl !important;
+}
+
+.wp-menu-name {
+	/* direction: rtl;
+	float:     right; */
+	text-align: initial;
+}
+
+ul.wp-submenu.wp-submenu-wrap {
+    text-align: initial;
+}
+
+li#collapse-menu {
+	float: right;
+}
+
+.nav-link {
+	float: right !important;
+}
+
+.rtl-text {
+	text-align: right;
+}
+
+.close{
+	float: left!important;
+}
+
+
+input[type=file] {
+    padding: 3px 14px;
+}
