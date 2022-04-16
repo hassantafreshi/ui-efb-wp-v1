@@ -17,7 +17,7 @@
                                                                                                                           
 </br></br>
    <div align="center">
-             <h3>         Create by
+             <h3>         Created by
     <a href="https://whitestudio.team/">
        White Studio Team
     </a>
